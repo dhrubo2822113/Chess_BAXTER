@@ -1,7 +1,4 @@
 # Chess_BAXTER
-This project simulates a chess game using a robot within the Robot Operating System (ROS) framework and the Gazebo simulation environment.
-University of Glasgow Robotics Foundation Coursework: Chess Simulation in ROS and Gazebo
-
 Abstract:
 
 This project simulates a chess game using a robot within the Robot Operating System (ROS) and the Gazebo 3D simulator. The virtual environment encompasses a chessboard, pieces, and a table, enabling the robot to interact with the elements. The robot is programmed to pick up and place chess pieces, simulating a real-world chess game.
