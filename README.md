@@ -20,6 +20,9 @@ Simulates robot dynamics, sensors, and environments.
 Used to create the virtual chessboard, pieces, table, and robot model.
 Chessboard, Pieces, and Table:
 
+Link to Video :
+https://www.youtube.com/watch?v=ErfA32TAdk0&t=24s
+
 Represented as 3D models in Gazebo.
 Chessboard: Defined by its size and square dimensions.
 Pieces: Modeled with unique shapes and identifiers for recognition.
